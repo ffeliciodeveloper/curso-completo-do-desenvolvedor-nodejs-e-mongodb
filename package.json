@@ -1,0 +1,14 @@
+{
+  "name": "teste-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Fernando da Costa Felicio",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
